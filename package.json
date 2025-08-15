@@ -1,0 +1,22 @@
+{
+  "name": "hunosgallery",
+  "version": "1.0.0",
+  "description": "",
+  "main": "index.js",
+  "scripts": {},
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/Jotha5541/HunosGallery.git"
+  },
+  "keywords": [],
+  "author": "",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/Jotha5541/HunosGallery/issues"
+  },
+  "homepage": "https://github.com/Jotha5541/HunosGallery#readme",
+  "devDependencies": {
+    "@playwright/test": "^1.54.2",
+    "@types/node": "^24.3.0"
+  }
+}
