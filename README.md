@@ -1,1 +1,2 @@
-### Web Application for Retro Sci-Fi Landscape Artworks ###
+### Web Gallery for Retro Sci-Fi Landscape Artworks ###
+
